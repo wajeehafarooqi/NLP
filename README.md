@@ -4,7 +4,7 @@ We use nltk which have all libraries for step1 preprocessing
 >>import nltk
 >>download()
 # 1. TEXT PRE-PROCESSING:
-    ### Tokenization: 
+    <u>Tokenization:</u> 
             we are basically divide the paragraph into sentences and then into words by using following statements in python
             >>nltk.sent_token(data_para)
             >>nltk.word_token(data_para)
